@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Electrochromic Film Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Welcome Message -->
+    <string name="welcome_message">Please Choose a Window to Tint</string>
+
+    <!-- Strings used for Button Names -->
+    <string name="driver_front_window">Driver\'s Side Front Window</string>
+    <string name="driver_back_window">Driver\'s Side Back Window</string>
+    <string name="passenger_front_window">Passenger\'s Side Front Window</string>
+    <string name="passenger_back_window">Passenger\'s Side  Window</string>
+
+</resources>
