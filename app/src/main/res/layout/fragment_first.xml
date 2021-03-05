@@ -33,7 +33,7 @@
         android:layout_height="75dp"
         android:layout_marginLeft="44dp"
         android:layout_marginTop="164dp"
-        android:text="@string/driver_front_window"
+        android:background="@drawable/drivers_front_design"
 
 
         app:layout_constraintLeft_toLeftOf="parent"
@@ -45,7 +45,7 @@
         android:layout_height="75dp"
         android:layout_marginLeft="44dp"
         android:layout_marginTop="76dp"
-        android:text="@string/driver_back_window"
+        android:background="@drawable/drivers_back_design"
 
 
         app:layout_constraintLeft_toLeftOf="parent"
@@ -56,7 +56,7 @@
         android:layout_width="150dp"
         android:layout_height="75dp"
         android:layout_marginTop="164dp"
-        android:text="@string/passenger_front_window"
+        android:background="@drawable/passengers_front_design"
         app:layout_constraintHorizontal_bias="0.394"
         app:layout_constraintLeft_toRightOf="@+id/driver_front"
         app:layout_constraintRight_toRightOf="parent"
@@ -67,7 +67,7 @@
         android:layout_width="150dp"
         android:layout_height="75dp"
         android:layout_marginTop="76dp"
-        android:text="@string/passenger_back_window"
+        android:background="@drawable/passengers_back_design"
         app:layout_constraintHorizontal_bias="0.406"
         app:layout_constraintLeft_toRightOf="@+id/driver_back"
         app:layout_constraintRight_toRightOf="parent"
